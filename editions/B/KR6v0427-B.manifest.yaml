@@ -1,0 +1,168 @@
+canonical_identifier: bkk:krp/KR6v0427/B/v1
+canonical_location: https://kanripo.org/bkk/KR6v0427/B/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 了凡四訓
+  identifiers:
+    krp: KR6v0427
+    cbeta: B28n0159
+    cbeta_old_id: B28n0159
+    authorityid: CA0006245
+    json_key: B0159
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B28/B28n0159.xml
+    old_id: B28n0159
+  edition:
+    short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0427_000-B.yaml, hash: 'sha256:bc23a6b82c8137a6933d59e4c05d770bc2cd381f110cab1370ea62a54a352f95'}
+  - {seq: 1, filename: KR6v0427_001-B.yaml, hash: 'sha256:bb7afba7aaa87239e1fcea048c444d73bd3074a98d50ff27ef84bc46082bc915'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0427_000-B.markers.yaml, hash: 'sha256:fd1a68bbe89fd36fc6b6d4e253dfb628629fd0035b8b53f163147b6bd9730bf4'}
+  - {seq: 1, role: markers, filename: assets/KR6v0427_001-B.markers.yaml, hash: 'sha256:211486114a300e9fa3ad1624dd3026e6707885de195cf51b47be24128beb4091'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0427_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0427_B_000-mulu-2
+    span:
+    - front
+    - 3380
+    - 3380
+  label: 舊序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0427_B_000-mulu-3
+    span:
+    - front
+    - 5506
+    - 5506
+  label: 原書目次
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6v0427_B_000-mulu-4
+    span:
+    - front
+    - 5563
+    - 5563
+  label: 袁了凡與陳穎亭書
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0427_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 24741
+  label: 了凡四訓此書所載立命改過積善謙德四篇為前明袁了凡先生訓子之文
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0427_B_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 立命之學
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0427_B_001-mulu-2
+    span:
+    - body
+    - 5233
+    - 5233
+  label: 改過之法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0427_B_001-mulu-3
+    span:
+    - body
+    - 7731
+    - 7731
+  label: 積善之方
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0427_B_001-mulu-4
+    span:
+    - body
+    - 15182
+    - 15182
+  label: 謙德之效
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0427_B_001-mulu-5
+    span:
+    - body
+    - 16555
+    - 16555
+  label: 附錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0427_B_001-mulu-6
+    span:
+    - body
+    - 16557
+    - 16557
+  label: 俞淨意公遇竈神記
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0427_B_001-mulu-7
+    span:
+    - body
+    - 19151
+    - 19151
+  label: 袁了凡居士傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0427_B_001-mulu-8
+    span:
+    - body
+    - 20166
+    - 20166
+  label: 雲谷大師傳
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0427_B_001-mulu-9
+    span:
+    - body
+    - 24080
+    - 24080
+  label: 重刻跋
+  type: mulu
+  level: 1
+hash: sha256:a157a7d03bbd3b83dfa5d776ee82393280701a166735660ba0c7e1f6970caab9
