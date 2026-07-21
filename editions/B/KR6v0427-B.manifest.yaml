@@ -19,17 +19,17 @@ metadata:
     short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0427_000-B.yaml, hash: 'sha256:bc23a6b82c8137a6933d59e4c05d770bc2cd381f110cab1370ea62a54a352f95'}
+  - {seq: 0, filename: KR6v0427_000-B.yaml, hash: 'sha256:4e8832147dc57c3b3e18fa2e91f4327aedcf9f7704d9c5056598d01165fa8f77'}
   - {seq: 1, filename: KR6v0427_001-B.yaml, hash: 'sha256:bb7afba7aaa87239e1fcea048c444d73bd3074a98d50ff27ef84bc46082bc915'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0427_000-B.markers.yaml, hash: 'sha256:fd1a68bbe89fd36fc6b6d4e253dfb628629fd0035b8b53f163147b6bd9730bf4'}
+  - {seq: 0, role: markers, filename: assets/KR6v0427_000-B.markers.yaml, hash: 'sha256:5e5e357b8ae24728f8cef484b466f5d729a558293c358dcec7095b16dc3d1edc'}
   - {seq: 1, role: markers, filename: assets/KR6v0427_001-B.markers.yaml, hash: 'sha256:211486114a300e9fa3ad1624dd3026e6707885de195cf51b47be24128beb4091'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0427_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0427_B_000-mulu-2
     span:
-    - front
+    - body
     - 3380
     - 3380
   label: 舊序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0427_B_000-mulu-3
     span:
-    - front
+    - body
     - 5506
     - 5506
   label: 原書目次
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6v0427_B_000-mulu-4
     span:
-    - front
+    - body
     - 5563
     - 5563
   label: 袁了凡與陳穎亭書
@@ -165,4 +165,4 @@ table_of_contents:
   label: 重刻跋
   type: mulu
   level: 1
-hash: sha256:a157a7d03bbd3b83dfa5d776ee82393280701a166735660ba0c7e1f6970caab9
+hash: sha256:d21ff0342c06ce26fc369f1ee091e3e7e80f8f2eaa852b57fe7aa8bbaa24f366
